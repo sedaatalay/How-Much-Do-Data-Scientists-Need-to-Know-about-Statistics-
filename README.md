@@ -9,6 +9,7 @@ Statistical analysis and probability affect our lives on a daily basis. Statisti
 In data science, statistics are at the center of complex machine learning algorithms that capture data patterns and turn them into actionable evidence. Data scientists use statistics to collect, review, analyze and draw conclusions from data and also apply quantified mathematical models to appropriate variables. Data scientists work as programmers, researchers, business managers and more. However, what all these fields have in common is the basis of statistics. Therefore, statistics in data science are as necessary as understanding programming languages.
 
 <p> </br>
+
 ![1_BCKrYB_y2afFsWFCj9dsXA](https://user-images.githubusercontent.com/91700155/164996681-68a4fb88-2e15-4edb-8230-4175173b4f8c.jpeg)
 
 <p> </br>
